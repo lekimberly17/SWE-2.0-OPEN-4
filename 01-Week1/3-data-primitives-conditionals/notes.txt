@@ -1,0 +1,67 @@
+lesson Objectives
+
+data primitives review [x]
+control flow [x]
+comparison operators []
+logical operators []
+
+
+---------------------------------------------------------
+Control Flow [x]
+    1. What is control flow? Provide an example of control flow.
+        - Control flow is the way the program makes decisions and chooses which 
+        instructions to execute next.
+        - Control flow statements if, else, else if - these will help us decide
+        on which part of our code gets run and which part gets ignored. 
+
+    2. What are conditional statements?
+        - A conditional statement is a type of control flow that allows a
+        program to make decisions based on certain conditions. They are used
+        to execute a block of code if a certain condition is met and skip a
+        block of code if the condition is false. 
+
+---------------------------------------------------------
+Comparison operators []
+    1. What are the comparison operators in Javascript?
+            1.
+            2.
+            3.
+            4.
+            5.
+            6.
+            7.
+            8.
+
+    2. What are comparison operators used for?
+        -  Comparison operators are used to compare values or variables and make
+        decisions based on the outcome of the comparison.
+
+    3. Provide an example of how to use comparison operators. (demo)
+        - What is the different between == and ===
+            - == only compares the value
+            - === compares both value and datatype
+
+    4. Provide an example of how to use comparison operators using control flow. (demo)
+
+---------------------------------------------------------
+Logical operators []
+
+    1. What are the logical operators?
+        - They are used in JS to combine multiple conditions in a single statement
+
+    2. What are logical operators used for?
+        && - AND
+        || - OR
+
+    3. How are logical operators evaulated?
+        && (True && True) = True
+        && (True && False) = False
+        && (False && False) = True
+
+        || (True || False) = True
+        || (True || True) = True
+        || (False || False) = False
+
+        
+** Pair Programming Exercise **       
+---------------------------------------------------------
