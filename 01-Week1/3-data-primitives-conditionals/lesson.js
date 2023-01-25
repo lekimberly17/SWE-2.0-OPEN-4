@@ -83,7 +83,13 @@ Logical Operators
     let budget = 3000
     let passport = true
 
-    (budget >= 4000 && passport === true) // How is this conditional
+        // F        &&   T
+    (budget >= 4000 && passport === true) 
+    
+        // F        ||   T
+    (budget >= 4000 || passport === true)
+    
+    // How is this conditional
     statement evaluated
 
 

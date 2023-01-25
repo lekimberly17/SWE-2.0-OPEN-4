@@ -56,12 +56,12 @@ Logical operators []
     3. How are logical operators evaulated?
         && (True && True) = True
         && (True && False) = False
-        && (False && False) = True
+        && (False && False) = False
 
         || (True || False) = True
         || (True || True) = True
         || (False || False) = False
 
-        
+
 ** Pair Programming Exercise **       
 ---------------------------------------------------------
